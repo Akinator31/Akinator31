@@ -24,6 +24,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Akinator31/Akinator31/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/alexishachemi/alexishachemi/6647dd2cc4b973a1801df5fe28e66a4a18cf9719/snake.svg" alt="Snake animation" />
 
 ###
