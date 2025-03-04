@@ -2,9 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Akinator31&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
 
 ###
 
@@ -21,7 +18,6 @@
 
 ###
 
-<br clear="both">
 
 <img src="https://raw.githubusercontent.com/alexishachemi/alexishachemi/6647dd2cc4b973a1801df5fe28e66a4a18cf9719/snake.svg" alt="Snake animation" />
 
